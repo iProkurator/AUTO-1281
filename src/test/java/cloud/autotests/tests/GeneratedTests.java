@@ -82,7 +82,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Проверка типа занятости")
     void generatedTest4() {
 
-        step("Открыть страницу вакансии", () -> Selenide.open("https://hh.ru/vacancy/67766510"));
+        step("Открыть страницу вакaнсии", () -> Selenide.open("https://hh.ru/vacancy/67766510"));
 
         step("Проверить текст", () -> {
             $x("//span[text()='полный день']").shouldHave(text("полный день"));
