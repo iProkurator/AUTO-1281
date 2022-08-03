@@ -1,5 +1,5 @@
-# Автоматизации тестирования страницы вакансии QA Automation на сайте kaluga.hh.ru
-## :link: <a target="_blank" href="https://kaluga.hh.ru/vacancy/66679546">hh.ru - Вакансия QA Automation</a>
+# Автоматизации тестирования страницы вакансии QA Automation на сайте hh.ru
+## :link: <a target="_blank" href="https://hh.ru/vacancy/67766510">hh.ru - Вакансия QA Automation</a>
 
 ## :page_with_curl: Содержание:
 
